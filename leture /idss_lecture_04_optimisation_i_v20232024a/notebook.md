@@ -12,7 +12,7 @@ geometric median 几何中值
 
 **优化** 是调整事物以使其变得更好的过程。在计算机科学中，我们希望通过算法“自动”做到这一点。大量的问题可以被视为优化，并且有大量的算法可以“有效”地进行自动调整，因为它们只需几个步骤即可找到最佳调整。从这个意义上说，优化就是搜索，优化算法使用问题空间的数学结构进行有效搜索。
 
-**parameters**: the things we can adjust, which might be a scalar or vector or other array of values, denoted $\theta$. The parameters exist in a **parameter space** -- the set of all possible configurations of parameters denoted $\Theta$. This space is often a **vector space** like $\Re ^n$, but doesn't need to be.
+**parameters**: the things we can adjust, which might be a scalar or vector or other array of values, denoted $\theta$. The parameters exist in a **parameter space** -- the set of all possible configurations of parameters denoted $\Theta$. This space is often a **vector space** like $\R ^n$, but doesn't need to be.
 
 
 **参数**：我们可以调整的事物，可能是一个标量、向量或其他值数组，表示为 $\theta$。参数存在于一个参数空间中——所有可能的参数配置集合表示为 $\Theta$。这个空间通常是一个向量空间，如 $\mathbb{R}^n$，但不必须是。  
@@ -25,7 +25,7 @@ geometric median 几何中值
 $$\theta^* = \argmin_{\theta\in\Theta} L(\theta)$$  
 
 * $\theta^*$ is the configuration that we want to find; the one for which the objective function is lowest. 
-* $\Theta$ is the set of all possible configurations that $\theta$ could take on, e.g. $\Re ^N$.   
+* $\Theta$ is the set of all possible configurations that $\theta$ could take on, e.g. $\R ^N$.   
 
 $\theta^*$ 是我们想要找到的配置；也就是使目标函数最小值
 
@@ -81,17 +81,17 @@ $$ \ L(\theta) = \|y^\prime - y\| = \|f(\vec{x};\theta) - y\| $$
 ### Focus: continuous optimisation in real vector spaces
 ### 重点： 实向量空间中的连续优化
 
-本课程将专注于在 $\Re^n$ 中连续问题的优化。即  
-$$\theta \in \Re^n = [\theta_1, \theta_2, \dots, \theta_n],$$ 
+本课程将专注于在 $\R^n$ 中连续问题的优化。即  
+$$\theta \in \R^n = [\theta_1, \theta_2, \dots, \theta_n],$$ 
 并且优化问题是：
-$$\theta^* = \argmin_{\theta \in \Re^n} L(\theta), \text{subject to constraints}$$
+$$\theta^* = \argmin_{\theta \in \R^n} L(\theta), \text{subject to constraints}$$
 
 这是在连续向量空间中搜索的问题，以找到使 $L(\theta)$ 最小的点。我们通常会遇到目标函数在该向量空间中是平滑和连续的问题；注意，参数是连续空间的元素，并不必然意味着目标函数在该空间中是连续的。 
 
 一些优化算法是迭代的，它们生成越来越接近解决方案的近似值。其他方法是直接的，比如线性最小二乘法，涉及一步找到最小值。在本课程中，我们将主要关注迭代的、近似的优化。
 
-### Geometric median: optimisation in  $\Re^2$
-### 几何中值： 在$\Re^2$的优化
+### Geometric median: optimisation in  $\R^2$
+### 几何中值： 在$\R^2$的优化
 找到一个 `>1D` 数据集的中位数。标准的中位数是通过排序然后选择中间元素计算的（对于偶数大小的数据集有各种规则）。这对于更高维度不适用，而且没有简单直接的算法。但中位数有一个简单的定义：它是最小化到数据集中所有向量的距离和的向量。  
 
 一个非常简单的优化例子是找到一个点，该点最小化到一组其他点的距离（关于某种规范）。我们可以定义：
@@ -111,8 +111,8 @@ $$
 
 上述图：$\theta_1$ 对应x  ; $\theta_2$ 对应y
 
-### optimisation in  $\Re^n$
-### 在$\Re^n$的优化
+### optimisation in  $\R^n$
+### 在$\R^n$的优化
 我们可以同样容易地在更高维度中工作。一个略有不同的问题是尝试找到一个点的布局，使得这些点是均匀分布的（针对某种规范）。在这种情况下，我们必须优化一整组点，我们可以通过将它们全部合并到一个单一的参数向量中来做到这一点。
 
 我们可以定义：  
@@ -148,7 +148,7 @@ where $c(\theta)$ is a function that represents the constraints.
 <img src="imgs/peaks.png">
 
 ## 约束与惩罚 constraints and penalties
-无约束优化很少能单独给出有用的答案。虽然我们通常将 $\theta$ 表示为在 $\Re^N$ 中，但可行集通常不是整个向量空间。有两种方法来处理这个问题：
+无约束优化很少能单独给出有用的答案。虽然我们通常将 $\theta$ 表示为在 $\R^N$ 中，但可行集通常不是整个向量空间。有两种方法来处理这个问题：
 ### 约束优化
 使用本身支持硬约束的优化算法。这对某些类型的优化很直接，但对一般优化来说比较棘手。直接使用convex或者box约束
 
