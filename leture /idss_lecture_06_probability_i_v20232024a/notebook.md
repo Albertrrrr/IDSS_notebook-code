@@ -162,4 +162,10 @@ $$​
 
 连续变量 连续变量有一个概率密度函数（PDF），它指定了作为连续函数 $f_X(x)$ 的结果上的概率分布。对于PDF来说，不是 $P(X=x) = f_X(x)$ 这种情况。
 
+#### 积分为一
+概率质量函数或概率密度函数的**和/积分必须正好为 1，因为所考虑的随机变量必须取**值；这是单一性的结果。实验的每一次重复都只有一个结果。
+
+$$\sum_i f_X(x_i) = 1\quad \text{for PMFs of discrete RVs}$$
+$$\int_x f_X(x)\ dx = 1\quad \text{for PDFs of continuous RVs}$$
+
 
