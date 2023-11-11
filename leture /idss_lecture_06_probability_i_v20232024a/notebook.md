@@ -168,4 +168,7 @@ $$​
 $$\sum_i f_X(x_i) = 1\quad \text{for PMFs of discrete RVs}$$
 $$\int_x f_X(x)\ dx = 1\quad \text{for PDFs of continuous RVs}$$
 
+## PMF 示例：掷骰子的总和
+一个非常简单的离散 PMF 是两个六面骰子之和的期望值。$P(X=x) = f_X(x)$ 对每种可能的结果 $x 取值（in \{2,3,4,5,6,7,8,9,10,11,12\}$
+
 
