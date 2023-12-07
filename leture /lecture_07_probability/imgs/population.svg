@@ -1,0 +1,2239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg11252"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="population.svg"
+   inkscape:export-filename="C:\Users\jhw___000\Dropbox\df3\lectures\week_9_probability_II\imgs\population.png"
+   inkscape:export-xdpi="400.06589"
+   inkscape:export-ydpi="400.06589">
+  <defs
+     id="defs11254">
+    <symbol
+       id="ToiletsMen">
+      <title
+         id="title13173">Toilets - Men</title>
+      <g
+         style="stroke:none"
+         id="g13175">
+        <circle
+           cx="36"
+           cy="9"
+           r="5"
+           id="circle13177" />
+        <path
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           id="path13179" />
+      </g>
+    </symbol>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="456.92071"
+     inkscape:cy="1457.3865"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1200"
+     inkscape:window-height="1857"
+     inkscape:window-x="5032"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       position="353.55339,780.84793"
+       orientation="0,1"
+       id="guide104667" />
+    <sodipodi:guide
+       position="423.25392,761.65504"
+       orientation="0,1"
+       id="guide104669" />
+    <sodipodi:guide
+       position="501.03567,386.88843"
+       orientation="0,1"
+       id="guide104671" />
+    <sodipodi:guide
+       position="418.20316,374.7666"
+       orientation="0,1"
+       id="guide104691" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata11257">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       y="211.74684"
+       x="480.98468"
+       height="510.78259"
+       width="275.86755"
+       id="rect104657"
+       style="opacity:0.20700001;fill:#bbb9ac;fill-opacity:1;stroke:none;stroke-width:1.07084501;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="opacity:0.20700001;fill:#5c725d;fill-opacity:1;stroke:none;stroke-width:1.24194217;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect104655"
+       width="371.18939"
+       height="510.61151"
+       x="109.85886"
+       y="211.83238" />
+    <g
+       id="use101331"
+       style="fill:#0b1a19;stroke:#000000"
+       transform="matrix(0.60997176,0,0,0.60997176,158.47132,294.79751)">
+      <title
+         id="title103667">Toilets - Men</title>
+      <g
+         id="g103669"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103671"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103673"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102813"
+       transform="matrix(0.60997176,0,0,0.53698225,158.47132,355.81955)"
+       style="fill:#0b1a19">
+      <title
+         id="title103657">Toilets - Men</title>
+      <g
+         id="g103659"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103661"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103663"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102815"
+       transform="matrix(0.60997176,0,0,0.64607367,158.47132,404.98681)"
+       style="fill:#0b1a19">
+      <title
+         id="title103647">Toilets - Men</title>
+      <g
+         id="g103649"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103651"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103653"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102817"
+       transform="matrix(0.60997176,0,0,0.50865193,158.47132,470.20384)"
+       style="fill:#0b1a19">
+      <title
+         id="title103637">Toilets - Men</title>
+      <g
+         id="g103639"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103641"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103643"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102819"
+       transform="matrix(0.60997176,0,0,0.60238512,158.47132,520.37104)"
+       style="fill:#0b1a19">
+      <title
+         id="title103627">Toilets - Men</title>
+      <g
+         id="g103629"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103631"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103633"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102821"
+       transform="matrix(0.60997176,0,0,0.61771597,158.47132,575.64278)"
+       style="fill:#0b1a19">
+      <title
+         id="title103617">Toilets - Men</title>
+      <g
+         id="g103619"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103621"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103623"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102823"
+       transform="matrix(0.60997176,0,0,0.65046486,180.43031,292.16112)"
+       style="fill:#0b1a19">
+      <title
+         id="title103607">Toilets - Men</title>
+      <g
+         id="g103609"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103611"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103613"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102825"
+       transform="matrix(0.60997176,0,0,0.48983424,180.43031,358.88922)"
+       style="fill:#0b1a19">
+      <title
+         id="title103597">Toilets - Men</title>
+      <g
+         id="g103599"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103601"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103603"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102827"
+       transform="matrix(0.60997176,0,0,0.59658951,180.43031,408.20859)"
+       style="fill:#0b1a19">
+      <title
+         id="title103587">Toilets - Men</title>
+      <g
+         id="g103589"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103591"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103593"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102829"
+       transform="matrix(0.60997176,0,0,0.57377192,180.43031,465.96406)"
+       style="fill:#0b1a19">
+      <title
+         id="title103577">Toilets - Men</title>
+      <g
+         id="g103579"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103581"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103583"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102831"
+       transform="matrix(0.60997176,0,0,0.66092344,180.43031,516.55978)"
+       style="fill:#0b1a19">
+      <title
+         id="title103567">Toilets - Men</title>
+      <g
+         id="g103569"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103571"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103573"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102833"
+       transform="matrix(0.60997176,0,0,0.60958888,180.43031,576.17191)"
+       style="fill:#0b1a19">
+      <title
+         id="title103557">Toilets - Men</title>
+      <g
+         id="g103559"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103561"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103563"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102835"
+       transform="matrix(0.60997176,0,0,0.56927136,202.38929,297.4474)"
+       style="fill:#d79d54">
+      <title
+         id="title103547">Toilets - Men</title>
+      <g
+         id="g103549"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103551"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103553"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102837"
+       transform="matrix(0.60997176,0,0,0.53467139,202.38929,355.97)"
+       style="fill:#0b1a19">
+      <title
+         id="title103537">Toilets - Men</title>
+      <g
+         id="g103539"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103541"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103543"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102839"
+       transform="matrix(0.60997176,0,0,0.60717714,202.38929,407.51925)"
+       style="fill:#0b1a19">
+      <title
+         id="title103527">Toilets - Men</title>
+      <g
+         id="g103529"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103531"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103533"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102841"
+       transform="matrix(0.60997176,0,0,0.49698373,202.38929,470.96352)"
+       style="fill:#0b1a19">
+      <title
+         id="title103517">Toilets - Men</title>
+      <g
+         id="g103519"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103521"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103523"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102843"
+       transform="matrix(0.60997176,0,0,0.58084956,202.38929,521.77316)"
+       style="fill:#0b1a19">
+      <title
+         id="title103507">Toilets - Men</title>
+      <g
+         id="g103509"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103511"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103513"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102845"
+       transform="matrix(0.60997176,0,0,0.56028764,202.38929,579.38178)"
+       style="fill:#0b1a19">
+      <title
+         id="title103497">Toilets - Men</title>
+      <g
+         id="g103499"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103501"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103503"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102847"
+       transform="matrix(0.60997176,0,0,0.57047368,224.34827,297.36911)"
+       style="fill:#0b1a19">
+      <title
+         id="title103487">Toilets - Men</title>
+      <g
+         id="g103489"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103491"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103493"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102849"
+       transform="matrix(0.60997176,0,0,0.57812205,224.34827,353.14105)"
+       style="fill:#0b1a19">
+      <title
+         id="title103477">Toilets - Men</title>
+      <g
+         id="g103479"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103481"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103483"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102851"
+       transform="matrix(0.60997176,0,0,0.71985866,224.34827,400.18288)"
+       style="fill:#0b1a19">
+      <title
+         id="title103467">Toilets - Men</title>
+      <g
+         id="g103469"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103471"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103473"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102853"
+       transform="matrix(0.60997176,0,0,0.64982481,224.34827,461.01248)"
+       style="fill:#0b1a19">
+      <title
+         id="title103457">Toilets - Men</title>
+      <g
+         id="g103459"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103461"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103463"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102855"
+       transform="matrix(0.60997176,0,0,0.57216982,224.34827,522.33826)"
+       style="fill:#0b1a19">
+      <title
+         id="title103447">Toilets - Men</title>
+      <g
+         id="g103449"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103451"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103453"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102857"
+       transform="matrix(0.60997176,0,0,0.63568452,224.34827,574.47289)"
+       style="fill:#0b1a19">
+      <title
+         id="title103437">Toilets - Men</title>
+      <g
+         id="g103439"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103441"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103443"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102859"
+       transform="matrix(0.60997176,0,0,0.67073044,246.30727,290.84169)"
+       style="fill:#0b1a19">
+      <title
+         id="title103427">Toilets - Men</title>
+      <g
+         id="g103429"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103431"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103433"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102861"
+       transform="matrix(0.60997176,0,0,0.53437771,246.30727,355.98912)"
+       style="fill:#0b1a19">
+      <title
+         id="title103417">Toilets - Men</title>
+      <g
+         id="g103419"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103421"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103423"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102863"
+       transform="matrix(0.60997176,0,0,0.6065882,246.30727,407.5576)"
+       style="fill:#d79d54">
+      <title
+         id="title103407">Toilets - Men</title>
+      <g
+         id="g103409"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103411"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103413"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102865"
+       transform="matrix(0.60997176,0,0,0.53489105,246.30727,468.49548)"
+       style="fill:#0b1a19">
+      <title
+         id="title103397">Toilets - Men</title>
+      <g
+         id="g103399"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103401"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103403"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102867"
+       transform="matrix(0.60997176,0,0,0.49247122,246.30727,527.52722)"
+       style="fill:#0b1a19">
+      <title
+         id="title103387">Toilets - Men</title>
+      <g
+         id="g103389"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103391"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103393"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102869"
+       transform="matrix(0.60997176,0,0,0.71026307,246.30727,569.61731)"
+       style="fill:#0b1a19">
+      <title
+         id="title103377">Toilets - Men</title>
+      <g
+         id="g103379"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103381"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103383"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102871"
+       transform="matrix(0.60997176,0,0,0.50988133,268.26625,301.31412)"
+       style="fill:#d79d54">
+      <title
+         id="title103367">Toilets - Men</title>
+      <g
+         id="g103369"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103371"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103373"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102873"
+       transform="matrix(0.60997176,0,0,0.57730656,268.26625,353.19415)"
+       style="fill:#0b1a19">
+      <title
+         id="title103357">Toilets - Men</title>
+      <g
+         id="g103359"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103361"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103363"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102875"
+       transform="matrix(0.60997176,0,0,0.66144227,268.26625,403.98621)"
+       style="fill:#0b1a19">
+      <title
+         id="title103347">Toilets - Men</title>
+      <g
+         id="g103349"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103351"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103353"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102877"
+       transform="matrix(0.60997176,0,0,0.54903336,268.26625,467.57472)"
+       style="fill:#d79d54">
+      <title
+         id="title103337">Toilets - Men</title>
+      <g
+         id="g103339"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103341"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103343"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102879"
+       transform="matrix(0.60997176,0,0,0.53809521,268.26625,524.55677)"
+       style="fill:#0b1a19">
+      <title
+         id="title103327">Toilets - Men</title>
+      <g
+         id="g103329"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103331"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103333"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102881"
+       transform="matrix(0.60997176,0,0,0.63525546,268.26625,574.50084)"
+       style="fill:#0b1a19">
+      <title
+         id="title103317">Toilets - Men</title>
+      <g
+         id="g103319"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103321"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103323"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102883"
+       transform="matrix(0.60997176,0,0,0.69312421,290.22523,289.38369)"
+       style="fill:#0b1a19">
+      <title
+         id="title103307">Toilets - Men</title>
+      <g
+         id="g103309"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103311"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103313"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102885"
+       transform="matrix(0.60997176,0,0,0.62582664,290.22523,350.03514)"
+       style="fill:#d79d54">
+      <title
+         id="title103297">Toilets - Men</title>
+      <g
+         id="g103299"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103301"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103303"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102887"
+       transform="matrix(0.60997176,0,0,0.66417526,290.22523,403.80827)"
+       style="fill:#0b1a19">
+      <title
+         id="title103287">Toilets - Men</title>
+      <g
+         id="g103289"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103291"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103293"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102889"
+       transform="matrix(0.60997176,0,0,0.72746861,290.22523,455.9573)"
+       style="fill:#0b1a19">
+      <title
+         id="title103277">Toilets - Men</title>
+      <g
+         id="g103279"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103281"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103283"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102891"
+       transform="matrix(0.60997176,0,0,0.60797449,290.22523,520.00712)"
+       style="fill:#0b1a19">
+      <title
+         id="title103267">Toilets - Men</title>
+      <g
+         id="g103269"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103271"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103273"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102893"
+       transform="matrix(0.60997176,0,0,0.68667449,290.22523,571.15309)"
+       style="fill:#0b1a19">
+      <title
+         id="title103257">Toilets - Men</title>
+      <g
+         id="g103259"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103261"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103263"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102895"
+       transform="matrix(0.60997176,0,0,0.57281996,312.18421,297.21636)"
+       style="fill:#0b1a19">
+      <title
+         id="title103247">Toilets - Men</title>
+      <g
+         id="g103249"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103251"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103253"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102897"
+       transform="matrix(0.60997176,0,0,0.57056101,312.18421,353.63334)"
+       style="fill:#0b1a19">
+      <title
+         id="title103237">Toilets - Men</title>
+      <g
+         id="g103239"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103241"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103243"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102899"
+       transform="matrix(0.60997176,0,0,0.53504747,312.18421,412.21541)"
+       style="fill:#0b1a19">
+      <title
+         id="title103227">Toilets - Men</title>
+      <g
+         id="g103229"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103231"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103233"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102901"
+       transform="matrix(0.60997176,0,0,0.71256377,312.18421,456.92772)"
+       style="fill:#0b1a19">
+      <title
+         id="title103217">Toilets - Men</title>
+      <g
+         id="g103219"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103221"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103223"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102903"
+       transform="matrix(0.60997176,0,0,0.58942275,312.18421,521.21498)"
+       style="fill:#0b1a19">
+      <title
+         id="title103207">Toilets - Men</title>
+      <g
+         id="g103209"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103211"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103213"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102905"
+       transform="matrix(0.60997176,0,0,0.72240829,312.18421,568.82657)"
+       style="fill:#0b1a19">
+      <title
+         id="title103197">Toilets - Men</title>
+      <g
+         id="g103199"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103201"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103203"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102907"
+       transform="matrix(0.60997176,0,0,0.69324943,334.1432,289.37555)"
+       style="fill:#0b1a19">
+      <title
+         id="title103187">Toilets - Men</title>
+      <g
+         id="g103189"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103191"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103193"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102909"
+       transform="matrix(0.60997176,0,0,0.55157956,334.1432,354.86916)"
+       style="fill:#0b1a19">
+      <title
+         id="title103177">Toilets - Men</title>
+      <g
+         id="g103179"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103181"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103183"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102911"
+       transform="matrix(0.60997176,0,0,0.55339575,334.1432,411.0208)"
+       style="fill:#0b1a19">
+      <title
+         id="title103167">Toilets - Men</title>
+      <g
+         id="g103169"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103171"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103173"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102913"
+       transform="matrix(0.60997176,0,0,0.69259232,334.1432,458.22801)"
+       style="fill:#0b1a19">
+      <title
+         id="title103157">Toilets - Men</title>
+      <g
+         id="g103159"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103161"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103163"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102915"
+       transform="matrix(0.60997176,0,0,0.48464759,334.1432,528.03659)"
+       style="fill:#d79d54">
+      <title
+         id="title103147">Toilets - Men</title>
+      <g
+         id="g103149"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103151"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103153"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102917"
+       transform="matrix(0.60997176,0,0,0.53880839,334.1432,580.78023)"
+       style="fill:#0b1a19">
+      <title
+         id="title103137">Toilets - Men</title>
+      <g
+         id="g103139"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103141"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103143"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102919"
+       transform="matrix(0.60997176,0,0,0.59843534,356.10218,295.54861)"
+       style="fill:#0b1a19">
+      <title
+         id="title103127">Toilets - Men</title>
+      <g
+         id="g103129"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103131"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103133"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102921"
+       transform="matrix(0.60997176,0,0,0.61195148,356.10218,350.93851)"
+       style="fill:#0b1a19">
+      <title
+         id="title103117">Toilets - Men</title>
+      <g
+         id="g103119"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103121"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103123"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102923"
+       transform="matrix(0.60997176,0,0,0.54280652,356.10218,411.71024)"
+       style="fill:#0b1a19">
+      <title
+         id="title103107">Toilets - Men</title>
+      <g
+         id="g103109"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103111"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103113"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102925"
+       transform="matrix(0.60997176,0,0,0.61219303,356.10218,463.46257)"
+       style="fill:#0b1a19">
+      <title
+         id="title103097">Toilets - Men</title>
+      <g
+         id="g103099"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103101"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103103"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102927"
+       transform="matrix(0.60997176,0,0,0.60839523,356.10218,519.97973)"
+       style="fill:#0b1a19">
+      <title
+         id="title103087">Toilets - Men</title>
+      <g
+         id="g103089"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103091"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103093"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102929"
+       transform="matrix(0.60997176,0,0,0.56224663,356.10218,579.25424)"
+       style="fill:#d79d54">
+      <title
+         id="title103077">Toilets - Men</title>
+      <g
+         id="g103079"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103081"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103083"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102931"
+       transform="matrix(0.60997176,0,0,0.48813107,378.06116,302.73021)"
+       style="fill:#0b1a19">
+      <title
+         id="title103067">Toilets - Men</title>
+      <g
+         id="g103069"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103071"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103073"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102933"
+       transform="matrix(0.60997176,0,0,0.5290917,378.06116,356.33328)"
+       style="fill:#0b1a19">
+      <title
+         id="title103057">Toilets - Men</title>
+      <g
+         id="g103059"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103061"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103063"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102935"
+       transform="matrix(0.60997176,0,0,0.72268021,378.06116,399.99917)"
+       style="fill:#0b1a19">
+      <title
+         id="title103047">Toilets - Men</title>
+      <g
+         id="g103049"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103051"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103053"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102937"
+       transform="matrix(0.60997176,0,0,0.69608495,378.06116,458.00061)"
+       style="fill:#0b1a19">
+      <title
+         id="title103037">Toilets - Men</title>
+      <g
+         id="g103039"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103041"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103043"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102939"
+       transform="matrix(0.60997176,0,0,0.58147463,378.06116,521.73246)"
+       style="fill:#0b1a19">
+      <title
+         id="title103027">Toilets - Men</title>
+      <g
+         id="g103029"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103031"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103033"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102941"
+       transform="matrix(0.60997176,0,0,0.72262391,378.06116,568.81252)"
+       style="fill:#d79d54">
+      <title
+         id="title103017">Toilets - Men</title>
+      <g
+         id="g103019"
+         style="fill:#d79d54;stroke:none">
+        <circle
+           id="circle103021"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#d79d54" />
+        <path
+           id="path103023"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#d79d54" />
+      </g>
+    </g>
+    <g
+       id="use102943"
+       transform="matrix(0.60997176,0,0,0.55571145,400.02015,298.33025)"
+       style="fill:#0b1a19">
+      <title
+         id="title103007">Toilets - Men</title>
+      <g
+         id="g103009"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103011"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103013"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102945"
+       transform="matrix(0.60997176,0,0,0.49300772,400.02015,358.6826)"
+       style="fill:#0b1a19">
+      <title
+         id="title102997">Toilets - Men</title>
+      <g
+         id="g102999"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle103001"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path103003"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102947"
+       transform="matrix(0.60997176,0,0,0.56046678,400.02015,410.56043)"
+       style="fill:#0b1a19">
+      <title
+         id="title102987">Toilets - Men</title>
+      <g
+         id="g102989"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle102991"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path102993"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102949"
+       transform="matrix(0.60997176,0,0,0.59333376,400.02015,464.69044)"
+       style="fill:#0b1a19">
+      <title
+         id="title102977">Toilets - Men</title>
+      <g
+         id="g102979"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle102981"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path102983"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102951"
+       transform="matrix(0.60997176,0,0,0.66580943,400.02015,516.24165)"
+       style="fill:#0b1a19">
+      <title
+         id="title102967">Toilets - Men</title>
+      <g
+         id="g102969"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle102971"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path102973"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <g
+       id="use102953"
+       transform="matrix(0.60997176,0,0,0.490641,400.02015,583.91627)"
+       style="fill:#0b1a19">
+      <title
+         id="title102957">Toilets - Men</title>
+      <g
+         id="g102959"
+         style="fill:#0b1a19;stroke:none">
+        <circle
+           id="circle102961"
+           r="5"
+           cy="9"
+           cx="36"
+           style="fill:#0b1a19" />
+        <path
+           id="path102963"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           inkscape:connector-curvature="0"
+           style="fill:#0b1a19" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.39887047px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="170.9838"
+       y="265.21478"
+       id="text103845"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan103847"
+         x="170.9838"
+         y="265.21478"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT'">Population</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text103849"
+       y="270.20441"
+       x="508.94366"
+       style="font-style:normal;font-weight:normal;font-size:24.39887047px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT'"
+         y="270.20441"
+         x="508.94366"
+         id="tspan103851"
+         sodipodi:role="line">Sample</tspan></text>
+    <g
+       id="g104382"
+       transform="matrix(0.60997176,0,0,0.60997176,132.68223,172.33843)">
+      <g
+         id="g104302"
+         transform="matrix(1,0,0,0.93327493,600.35328,192.57188)"
+         style="fill:#d79d54">
+        <title
+           id="title104304">Toilets - Men</title>
+        <g
+           id="g104306"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104308"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104310"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104312"
+         transform="matrix(1,0,0,0.99445292,600.35328,288.30403)"
+         style="fill:#d79d54">
+        <title
+           id="title104314">Toilets - Men</title>
+        <g
+           id="g104316"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104318"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104320"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104322"
+         transform="matrix(1,0,0,0.83590973,639.35328,195.95533)"
+         style="fill:#d79d54">
+        <title
+           id="title104324">Toilets - Men</title>
+        <g
+           id="g104326"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104328"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104330"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104332"
+         transform="matrix(1,0,0,0.90009636,639.35328,291.58292)"
+         style="fill:#d79d54">
+        <title
+           id="title104334">Toilets - Men</title>
+        <g
+           id="g104336"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104338"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104340"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104342"
+         transform="matrix(1,0,0,1.0259928,678.35328,189.34994)"
+         style="fill:#d79d54">
+        <title
+           id="title104344">Toilets - Men</title>
+        <g
+           id="g104346"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104348"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104350"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104352"
+         transform="matrix(1,0,0,0.79454103,678.35328,295.25097)"
+         style="fill:#d79d54">
+        <title
+           id="title104354">Toilets - Men</title>
+        <g
+           id="g104356"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104358"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104360"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104362"
+         transform="matrix(1,0,0,0.92175845,600.35328,388.68824)"
+         style="fill:#d79d54">
+        <title
+           id="title104364">Toilets - Men</title>
+        <g
+           id="g104366"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104368"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104370"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+      <g
+         id="g104372"
+         transform="matrix(1,0,0,1.1846842,639.35328,379.55157)"
+         style="fill:#d79d54">
+        <title
+           id="title104374">Toilets - Men</title>
+        <g
+           id="g104376"
+           style="fill:#d79d54;stroke:none">
+          <circle
+             id="circle104378"
+             r="5"
+             cy="9"
+             cx="36"
+             style="fill:#d79d54" />
+          <path
+             id="path104380"
+             d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+             inkscape:connector-curvature="0"
+             style="fill:#d79d54" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(0.60997176,0,0,0.60997176,158.47132,637.24282)"
+       style="fill:#0b1a19;stroke:#000000"
+       id="g104424">
+      <title
+         id="title104426">Toilets - Men</title>
+      <g
+         style="fill:#0b1a19;stroke:none"
+         id="g104428">
+        <circle
+           style="fill:#0b1a19"
+           cx="36"
+           cy="9"
+           r="5"
+           id="circle104430" />
+        <path
+           style="fill:#0b1a19"
+           inkscape:connector-curvature="0"
+           d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+           id="path104432" />
+      </g>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#8e1215;stroke-width:1.21994352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 173.3954,638.90279 14.8136,0"
+       id="path104434"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path104436"
+       d="m 173.24136,677.14269 14.8136,0"
+       style="fill:none;fill-rule:evenodd;stroke:#8e1215;stroke-width:1.21994352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text104438"
+       y="664.67358"
+       x="195.3903"
+       style="font-style:normal;font-weight:normal;font-size:24.39887047px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT'"
+         y="664.67358"
+         x="195.3903"
+         id="tspan104440"
+         sodipodi:role="line">Parameter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:9.52110577px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="197.50165"
+       y="675.47461"
+       id="text104442"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan104444"
+         x="197.50165"
+         y="675.47461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT'">true mean height</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:24.39887047px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="554.5022"
+       y="662.02063"
+       id="text104460"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan104462"
+         x="554.5022"
+         y="662.02063"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT'">Statistic</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text104464"
+       y="672.82159"
+       x="556.61353"
+       style="font-style:normal;font-weight:normal;font-size:9.52110577px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT'"
+         y="672.82159"
+         x="556.61353"
+         id="tspan104466"
+         sodipodi:role="line">sample mean height</tspan></text>
+    <g
+       id="g104693"
+       transform="translate(0,-4.2857143)">
+      <g
+         transform="matrix(0.60997176,0,0,0.60997176,132.16823,233.43349)"
+         id="g104599">
+        <g
+           id="g104479"
+           transform="matrix(1,0,0,0.93327493,606.90214,673.81083)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104481">Toilets - Men</title>
+          <g
+             id="g104483"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104485"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104487"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104489"
+           transform="matrix(1,0,0,0.99445292,606.90214,669.80367)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104491">Toilets - Men</title>
+          <g
+             id="g104493"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104495"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104497"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104499"
+           transform="matrix(1,0,0,0.83590973,606.90214,680.18825)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104501">Toilets - Men</title>
+          <g
+             id="g104503"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104505"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104507"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104509"
+           transform="matrix(1,0,0,0.90009636,606.90214,675.98402)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104511">Toilets - Men</title>
+          <g
+             id="g104513"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104515"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104517"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104519"
+           transform="matrix(1,0,0,1.0259928,606.90214,667.73781)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104521">Toilets - Men</title>
+          <g
+             id="g104523"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104525"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104527"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104529"
+           transform="matrix(1,0,0,0.79454103,606.90214,682.8979)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104531">Toilets - Men</title>
+          <g
+             id="g104533"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104535"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104537"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104539"
+           transform="matrix(1,0,0,0.92175845,606.90214,674.56516)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104541">Toilets - Men</title>
+          <g
+             id="g104543"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104545"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104547"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+        <g
+           id="g104549"
+           transform="matrix(1,0,0,1.1846842,606.90214,657.34352)"
+           style="opacity:0.20700001;fill:#d79d54">
+          <title
+             id="title104551">Toilets - Men</title>
+          <g
+             id="g104553"
+             style="fill:#d79d54;stroke:none">
+            <circle
+               id="circle104555"
+               r="5"
+               cy="9"
+               cx="36"
+               style="fill:#d79d54" />
+            <path
+               id="path104557"
+               d="m 24,22 0,15.5 a 2.25,2.25 0 0 0 4.5,0 l 0,-14.5 1,0 0,39.5 a 3,3 0 0 0 6,0 l 0,-22.5 1,0 0,22.5 a 3,3 0 0 0 6,0 l 0,-39.5 1,0 0,14.5 a 2.25,2.25 0 0 0 4.5,0 L 48,22 a 7,7 0 0 0 -7,-7 l -10,0 a 7,7 0 0 0 -7,7 z"
+               inkscape:connector-curvature="0"
+               style="fill:#d79d54" />
+          </g>
+        </g>
+      </g>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5d8e8d;stroke-width:1.21994352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 516.95505,646.69284 14.81361,0"
+         id="path104651"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#5d8e8d;stroke-width:1.21994352;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 517.08335,681.83882 14.8136,0"
+         id="path104653"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       sodipodi:linespacing="125%"
+       id="text104659"
+       y="232.9471"
+       x="421.99725"
+       style="font-style:normal;font-weight:normal;font-size:16.04042625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5c725d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#5c725d"
+         y="232.9471"
+         x="421.99725"
+         id="tspan104661"
+         sodipodi:role="line">Hidden</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:16.04042625px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5c725d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="679.79028"
+       y="232.9471"
+       id="text104663"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan104665"
+         x="679.79028"
+         y="232.9471"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';fill:#5c725d">Observed</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.26679611px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5d8e8d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="324.71652"
+       y="664.77856"
+       id="text104673"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan104675"
+         x="324.71652"
+         y="664.77856"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#5d8e8d">μ</tspan></text>
+    <g
+       id="g104685"
+       style="fill:#5d8e8d"
+       transform="matrix(0.61721149,0,0,0.61721149,261.9776,250.72243)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:60.33868027px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5d8e8d;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="686.87842"
+         y="672.539"
+         id="text104677"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan104679"
+           x="686.87842"
+           y="672.539"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#5d8e8d">μ</tspan></text>
+      <text
+         transform="scale(1.6308534,0.6131759)"
+         sodipodi:linespacing="125%"
+         id="text104681"
+         y="1056.7445"
+         x="420.72922"
+         style="font-style:normal;font-weight:normal;font-size:38.20064545px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#bb6713;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Cambria Math';-inkscape-font-specification:'Cambria Math';fill:#bb6713;"
+           y="1056.7445"
+           x="420.72922"
+           id="tspan104683"
+           sodipodi:role="line">^</tspan></text>
+    </g>
+  </g>
+</svg>
