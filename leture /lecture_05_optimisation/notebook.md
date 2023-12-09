@@ -158,12 +158,6 @@ $C^1$连续的，即函数及其导数中无处有阶跃变化
 
 对于函数$\real^n \rightarrow \real$（即我们关心的目标函数$L(\theta)$），这等同于说梯度是有界的，函数的变化速率不能超过某个常数；存在一个最大的陡度。对于所有的$i$和某个固定的$K$，有$ \frac{\partial L(\theta)}{di} \leq K $。
 
-#### Small Lipschitz constant
-<video src="imgs/smooth_lipschitz.mp4" controls="true" width="50%"> -
-
-视频中的白色圆锥体无论如何沿着函数滑动，都不会与函数相交。这个函数是利普希茨连续的；梯度在任何地方都是有界的，因此没有任何地方足够陡峭到可以与圆锥体相交。
-
-<video src="imgs/lipschitz_big.mp4" controls="true" width="50%">-
 
 ### Lipschitz 常数
 我们可以想象在一个表面上滑动一个特定陡度的圆锥体。我们可以检查它是否曾经触摸到表面。这是衡量函数陡峭程度的一个指标；或者等价于一阶导数的上界。函数$f(x)$的利普希茨常数$K$是一次只触摸函数一次的圆锥体的宽度的度量。这是一个衡量函数平滑程度的指标，或者等价于目标函数在其定义域上任何一点的最大陡度。它可以定义为：
@@ -184,7 +178,7 @@ reference:
 - 然后检查解中是否有二阶导数为正的 $f^{\prime \prime}(x)>0$，这表示解是最小值。
 
 ### Example
-This is how we might find the minimum of $$f(x) = x^4 -40x^2 -100x.$$ The derivative is: $$f^\prime(x) = 4x^3 - 80x - 100$$ and the second derivative is $$f^{\prime\prime}(x) = 12x^2 - 80.$$ We can solve for: $$f^\prime(x) = 4x^3-20x-100 = 0,$$ and check the sign of $$f^{\prime\prime}(x) = 12x^2 -20$$ to find if we have a minimum. 
+This is how we might find the minimum of $f(x) = x^4 -40x^2 -100x.$ The derivative is: $f^\prime(x) = 4x^3 - 80x - 100$ and the second derivative is $f^{\prime\prime}(x) = 12x^2 - 80.$ We can solve for: $f^\prime(x) = 4x^3-20x-100 = 0$ and check the sign of $f^{\prime\prime}(x) = 12x^2 -20$ to find if we have a minimum. 
 
 ![Alt text](image.png)
 
@@ -304,16 +298,13 @@ xs = np.linspace(-10,10,200)
 
 
 ### 步长的重要性
-步长 $\delta$ 对成功至关重要。如果它太小，步伐会非常小，收敛会很慢。如果步伐太大，优化的行为可能变得相当不可预测。如果在一步的空间内梯度函数变化显著（例如，如果梯度在步长中改变符号），就会发生这种情况。
+步长 $\delta$ 对成功至关重要。如果它太小，步伐会非常小，收敛会很慢。如果步伐太大，优化的行为可能变得相当不可预测。如果在一步的空间内梯度函数变化显著（例如，如果梯度在步长中改变符号），就会发生这种情况。The step size $\delta$ is critical to success. If it is too small, the pace will be very small and convergence will be slow. If the pace is too large, the behaviour of the optimization can become quite unpredictable. This can happen if the gradient function changes significantly in the space of one step (e.g., if the gradient changes sign in the step).
 
-- 步长为0.01
-![Alt text](image-2.png)
-- 步长为0.5
-![Alt text](image-3.png)
-- 步长过长 - 震荡现象
-![Alt text](image-4.png)
-- 步长太大 -发散
-![Alt text](image-5.png)
+#### 步长为0.01 步长为0.5 步长过长 - 震荡现象 步长太大 -发散
+<img src="image-2.png" width="40%"><img src="image-3.png" width="40%">
+
+<img src="image-4.png" width="40%"><img src="image-5.png" width="40%">
+
 
 ###  与Lipschitz 常数的联系
 的确，步长 $\delta$ 与目标函数的Lipschitz常数 $K$ 直接相关。理论上，如果我们知道Lipschitz常数，我们可以选择一个保证收敛性的步长，不会太大以致于引起振荡，也不会太小导致收敛过慢。具体来说，步长通常选择为Lipschitz常数的倒数。
@@ -344,7 +335,7 @@ $$
 $$  
 
 对于相当平滑的一维函数，这种方法效果不错：
-![Alt text](image-7.png)
+<img src="image-7.png" width="50%">
 
 
 ### 数值问题
@@ -407,16 +398,10 @@ $$
 例如autograd，为几乎所有NumPy代码提供自动微分。下面的例子来自autograd文档。它是一个可以直接替换的工具，它可以“神奇地”估计导数（尽管只支持某些操作）。
 
 autograd 现在已经发展成为 Google JAX，可能是最有前途的机器学习库。JAX支持使用自动微分的GPU和TPU计算。我在这里没有使用它，因为它安装起来比较困难。
-
-![Alt text](image-8.png)
+<img src= "image-8.png" width="45%" height = 290>
 
 ### Vectorised example
 ![Alt text](image-9.png)
-
-## 导数技巧
-[旁注：如果你有一个函数的梯度，你可以做一些巧妙的事情，比如计算从表面反射的光线，假设有一个固定的光源。这对IDSS直接并不重要，但展示了能够对函数进行微分是多么有用]
-
-![Alt text](image-10.png)
 
 ## 在优化中使用自动微分
 利用自动微分技术，我们可以将目标函数的形式直接写成计算过程，并且“免费”获得该函数的导数。这使得执行一阶优化变得极为高效。
@@ -426,14 +411,13 @@ autograd 现在已经发展成为 Google JAX，可能是最有前途的机器学
 ### 一阶线性拟合
 让我们重新解决第6讲中的最佳拟合直线问题。我们想要找到 $m$ 和 $c$；即直线的参数，使得直线与一组数据点之间的平方差最小化（目标函数）。
 
-![Alt text](image-11.png)
+#### 一阶线性拟合 SGD
+<img src= "image-11.png" width="45%" height = 290><img src= "image-13.png" width="50%" height = 290>
 
 ## 自动微分的限制
 显然，微分只适用于可微分的函数。 虽然一阶梯度向量通常可以在合理的时间内计算，但正如我们稍后将看到的，计算多维函数的二阶导数变得非常困难。
 
 **"The Blind Watchmaker"**一书中提出并讨论了如何动物进化出伪装能力的问题。进化是一个逐步的优化过程，而为了能够被接受的步骤，需要从"较差的适应性"到"良好的适应性"之间有一个平滑的路径。
-
-<img src="imgs/moth.jpg" width="30%">
 
 那么，像蛾这样的动物是如何进化出伪装的呢？它要么被看到而被捕食者吃掉，要么捕食者没看到它。这是一个二元函数，没有梯度。虽然进化不需要梯度，但它确实需要存在大致连续的适应性函数。
 
@@ -532,7 +516,6 @@ def sgd(L, dL, theta_0, xs, ys, step=0.1, batch_size=10, epochs=10):
 我们可以使用10000个点来进行线性回归示例——并且只通过数据一次就找到了一个很好的拟合。这是因为我们可以将问题分解为许多小问题的和（一次在几个随机点上拟合线），这些都是一个大问题的一部分（拟合所有点的线）。
 
 当这种情况成为可能时，它比计算我们可用的全部数据集的梯度要高效得多。
-![Alt text](image-13.png)
 
 ## 一个噩梦般的函数
 这个函数包含了所有困难的特性：

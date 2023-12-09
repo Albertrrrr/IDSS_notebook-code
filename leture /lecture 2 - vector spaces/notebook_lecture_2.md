@@ -31,11 +31,24 @@ Each of these vectors [1,0,0], [0,1,0], [0,0,1] is pointing in a independent dir
 $$\text{lerp}(\vec{x}, \vec{y}, \alpha) = (1-\alpha) \vec{x} + (\alpha) \vec{y}$$
 
 ## Different Norm
-* L0 norm ：通常被定义为向量中非零元素的数量 $||{\bf x}||_0 = 非零元素的个数$
-* L1 norm ： 是向量中各个元素绝对值之和 $||{\bf x}||_1 = \sum_{i=1}^n|x_i|$
-* L2 norm : 通常被称为欧几里得范数，是向量元素平方的和再开平方根。
-* Infinity norm: 又称最大范数，是向量的各个分量绝对值的最大值 $||{\bf x}||_\infty = \max(|x_1|,||x_2,...,|x_n|)$
-* Lp-norm : 是欧几里得范数的一种泛化形式，用于测量向量在p维空间中的长度:$\| \mathbf{x} \|_p = \left( \sum_{i=1}^{n} |x_i|^p \right)^{\frac{1}{p}}$
+* L0 norm ：通常被定义为向量中非零元素的数量 $||{\bf x}||_0 = 非零元素的个数$ is usually defined as the number of non-zero elements in the vector.
+* L1 norm ： 是向量中各个元素绝对值之和 $||{\bf x}||_1 = \sum_{i=1}^n|x_i|$ is the sum of the absolute values of the elements of the vector
+* L2 norm : 通常被称为欧几里得范数，是向量元素平方的和再开平方根。Often referred to as the Euclidean paradigm, it is the sum of the squares of the vector elements re-squared to the square root.
+* Infinity norm: 又称最大范数，是向量的各个分量绝对值的最大值 $||{\bf x}||_\infty = \max(|x_1|,||x_2,...,|x_n|)$Also known as the maximum paradigm number, it is the maximum value of the absolute value of each component of a vector
+* Lp-norm : 是欧几里得范数的一种泛化形式，用于测量向量在p维空间中的长度:$\| \mathbf{x} \|_p = \left( \sum_{i=1}^{n} |x_i|^p \right)^{\frac{1}{p}}$ is a generalised form of the Euclidean paradigm for measuring the length of a vector in p-dimensional space
+* Lp distance $L_p$ 距离用于度量两个向量间的距离，适用于文档向量 $\mathbf{d}$ 和  $\mathbf{d'}$。具体来说，$L_p$ 距离定义如下：
+
+$$ L_p(\mathbf{d}, \mathbf{d'}) = \left( \sum_{i=1}^{n} |d_i - d'_i|^p \right)^{\frac{1}{p}} $$
+
+其中，$\mathbf{d}$ 和 $\mathbf{d'}$ 是两个文档向量，$d_i$ 和 $d'_i$ 分别是这两个向量中的对应元素，n 是向量的维数，p 是一个正实数，决定了距离的类型：
+
+- 当 p = 1，这就是曼哈顿距离（Manhattan distance），即向量元素差的绝对值之和。
+- 当 p = 2 ，这就是欧几里得距离（Euclidean distance），即向量元素差的平方和的平方根，是最常用的距离度量。就可以判断相似度
+- 当 p 趋向于无穷大时，$L_p$ 距离趋向于最大范数（maximum norm），即两个向量间差的绝对值的最大值。
+- When p = 1, this is the Manhattan distance, which is the sum of the absolute values of the differences of the vector elements.
+- When p = 2, this is the Euclidean distance, which is the square root of the sum of the squares of the differences of the elements of the vectors, and is the most commonly used distance measure.
+- As p tends to infinity, the $L_p$ distance tends to the maximum norm, i.e., the maximum value of the absolute value of the difference between two vectors.
+
 
 <img src="imgs/pnorms.png">
 
@@ -113,4 +126,5 @@ $$
 * 数据特征的提取：通过对协方差矩阵进行特征分解，可以提取数据的主要成分或方向，这是主成分分析（PCA）的基础。PCA通过协方差矩阵识别数据中的主要变化方向，帮助减少数据的维度，同时尽可能保留重要的信息。 Extraction of data features: The main components or directions of the data can be extracted by feature decomposition of the covariance matrix, which is the basis of Principal Component Analysis (PCA).
   
 * 数据的多维度分布理解：协方差矩阵反映了多维数据集中各维度的联合变异性。通过分析协方差矩阵，可以理解数据各维度间的相互作用，这对于多变量分析非常重要。Understanding the multidimensional distribution of data: The covariance matrix reflects the joint variability of dimensions in a multidimensional dataset. 
+
 
