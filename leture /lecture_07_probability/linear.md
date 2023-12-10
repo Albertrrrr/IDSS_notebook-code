@@ -4,14 +4,16 @@
 **Linear regression** is the fitting of a line to observed data. It assumes the mysterious entity generates data where one of the observed variables is scaled and shifted version of another observed variable, corrupted by some noise; a linear relationship. It is a very helpful lens through which different approaches to data modelling can be seen; it is pretty much the simplest useful model of data with relationships, and the techniques we use easily generalise from linear models to more powerful representations.
 **线性回归**是对观察数据进行直线拟合的过程。它假设有一个神秘的实体生成数据，其中一个观察变量是另一个观察变量的缩放和移位版本，受到一些噪声的干扰；即线性关系。线性回归是通过这种方式来看待数据建模的不同方法的一个非常有用的视角；它几乎是最简单有用的数据关系模型，并且我们使用的技术可以从线性模型轻松泛化到更强大的表示形式。
 
-The problems is to estimate what that scaling and shifting is. In a simple 2D case, this is the gradient $m$ and offset $c$ in the equation $y=mx+c$. It can be directly generalised to higher dimensions to find $A$ and $\mathbf{b}$ in $$\mathbf{y}= A\mathbf{x} + \mathbf{b},$$ but we'll use the simple "high school" $y=mx+c$ case for simplicity.
-问题是估计缩放和移位是什么。在一个简单的二维案例中，这是方程式 $y=mx+c$ 中的梯度 $m$ 和偏移量 $c$。它可以直接泛化到更高维度以在 $$\mathbf{y}= A\mathbf{x} + \mathbf{b}$$ 中找到 $A$ 和 $\mathbf{b}$，但为了简单起见，我们将使用简单的“高中”案例 $y=mx+c$。
+The problems is to estimate what that scaling and shifting is. In a simple 2D case, this is the gradient $m$ and offset $c$ in the equation $y=mx+c$. It can be directly generalised to higher dimensions to find $A$ and $\mathbf{b}$ in $\mathbf{y}= A\mathbf{x} + \mathbf{b},$ but we'll use the simple "high school" $y=mx+c$ case for simplicity.
 
-We assume that we will fit a line to *noisy* data. That is the process that we assume that is generating the data is $$y=mx+c+\epsilon,$$ where $\epsilon$ is some noise term. We have to make assumptions about the distribution of $\epsilon$ in order to make inferences about the parameters.
-我们假设我们将对*带噪声的*数据拟合一条线。也就是说，我们假设生成数据的过程是 $$y=mx+c+\epsilon,$$ 其中 $\epsilon$ 是一些噪声项。我们必须对 $\epsilon$ 的分布做出假设，以便对参数进行推断。
+问题是估计缩放和移位是什么。在一个简单的二维案例中，这是方程式 $y=mx+c$ 中的梯度 $m$ 和偏移量 $c$。它可以直接泛化到更高维度以在 $\mathbf{y}= A\mathbf{x} + \mathbf{b}$ 中找到 $A$ 和 $\mathbf{b}$，但为了简单起见，我们将使用简单的“高中”案例 $y=mx+c$。
 
-One simple assumption is that $$\epsilon \sim \mathcal{N}(0, \sigma^2),$$ i.e. that we have normally distributed variations in our measurements. So our full equation is:
-一个简单的假设是 $$\epsilon \sim \mathcal{N}(0, \sigma^2),$$ 即我们的测量中有正态分布的变化。所以我们的完整方程是：
+We assume that we will fit a line to *noisy* data. That is the process that we assume that is generating the data is $y=mx+c+\epsilon,$ where $\epsilon$ is some noise term. We have to make assumptions about the distribution of $\epsilon$ in order to make inferences about the parameters.
+
+我们假设我们将对*带噪声的*数据拟合一条线。也就是说，我们假设生成数据的过程是 $y=mx+c+\epsilon,$ 其中 $\epsilon$ 是一些噪声项。我们必须对 $\epsilon$ 的分布做出假设，以便对参数进行推断。
+
+One simple assumption is that $\epsilon \sim \mathcal{N}(0, \sigma^2)$ i.e. that we have normally distributed variations in our measurements. So our full equation is:
+一个简单的假设是 $\epsilon \sim \mathcal{N}(0, \sigma^2),$ 即我们的测量中有正态分布的变化。所以我们的完整方程是：
 
 $$y=mx+c+\mathcal{N}(0, \sigma^2),$$
 
@@ -33,27 +35,25 @@ def model(x, theta):
     y =  np.random.normal(x * m + c, sigma)
     return y
 ```
-## Our problem is: given just the inputs \(x\) and return values \(y\), what are the values of the *other* argument \(\theta\).
-## 我们的问题是：仅给定输入 \(x\) 和返回值 \(y\)，*其他*参数 \(\theta\) 的值是什么。
 
-### Linear regression via direct optimisation
+
 ### 通过直接优化进行线性回归
 We saw how this problem could be solved as a **function approximation** problem using optimisation. We can write an objective function:
 我们看到了如何通过优化将这个问题解决为一个**函数逼近**问题。我们可以写一个目标函数：
 
 $$L(\theta) = \|f(x;\theta)-y\|, $$ 
 
-where \(\theta=[m,c]\) and \(f(x;\theta) = \theta_0 x + \theta_1\). 
-其中 \(\theta=[m,c]\) 且 \(f(x;\theta) = \theta_0 x + \theta_1\)。
+where $\theta=[m,c]$ and $f(x;\theta) = \theta_0 x + \theta_1$. 
+其中 $\theta=[m,c]$ 且 $f(x;\theta) = \theta_0 x + \theta_1$。
 
-If we choose the squared Euclidean norm, then we have, for the simple \(y=mx+c\) case :
+If we choose the squared Euclidean norm, then we have, for the simple $y=mx+c$ case :
 如果我们选择平方欧几里得范数，那么对于简单的 \(y=mx+c\) 情况：
 
 $$L(\theta) = \|f(x;\theta)-y\|$$
 $$L(\theta) = \|\theta_0 x + \theta_1 - y\|^2_2 = (\theta_0 x + \theta_1 - y)^2, $$
 
 which we can easily minimise, e.g. by gradient descent, since computing \(\nabla L(\theta)\) turns out to be easy.  This is **ordinary linear least-squares**.
-我们可以轻松地将其最小化，例如通过梯度下降，因为计算 \(\nabla L(\theta)\) 结果很简单。这是**普通线性最小二乘法**。
+我们可以轻松地将其最小化，例如通过梯度下降，因为计算 $\nabla L(\theta)$ 结果很简单。这是**普通线性最小二乘法**。
 
 <img src="imgs/linear_lsqr.png">
 
